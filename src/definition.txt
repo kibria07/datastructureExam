@@ -3,29 +3,38 @@ Data Structure Definition:
 
 1) why do we need data structure?
 
-answer:
+answer: for the safety of data type. save time and for implicit casting of data type. reduce code redundancy.
 
 2) List out the areas in which data structures are applied extensively?
+      website design, data reading,
 
 3) what is an Array?
-
+array is a datatpe which hole multiple value for a single variable .
 4) what is the difference between the Array and ArrayList?
+ array is a variable and arrayList is a data structure which implement List interface.
 
 5) what is LinkedList?
+   it is a data structure. it implements the list.
 
 6) what is queue?
+data structure. FIFO.
 
 7) what is stack?
+FILO
 
 8) what is FIFO and LIFO?
 
 9) what is the order of complexity?
+is a branch of theory of computaton in theoritical computer science and mathematics. classifying the computational problem based on their inherent 
+difficulty.
 
 10)what is the best case to search an element from an array?
+merge search
 
 11)what is the worst case to search an element from an array?
-
+linear search
 12) what is tree in data structure?
+tree is  a data structure with a value assigned to it.
 
 13) what is graph in data structure?
 
