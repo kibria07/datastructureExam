@@ -1,5 +1,5 @@
 package ds;
-
+import java.io.*;
 import java.util.*;
 
 public class UseStructure {
@@ -27,7 +27,7 @@ public class UseStructure {
 		
 		    System.out.println("List Elements are ");
 		    	while(list!=null){
-		    		list.removeFirst();
+		    		//list.removeFirst();
 		    		list.element();
 		    }
 		    			System.out.println(list);

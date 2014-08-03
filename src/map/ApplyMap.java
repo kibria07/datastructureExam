@@ -8,7 +8,9 @@ public class ApplyMap {
 		/*
 		 * UseMap() can be utilize here.
 		 */
-		
+		UseMap um = new UseMap();
+				um.getDataByMap(null);
+				um.getDataByMapList(null);
 		
 		LinkedList <String> List = new LinkedList<String>();
 		List.add("a");

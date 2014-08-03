@@ -20,6 +20,9 @@ public class ApplyDS {
 		us.returnByLinkedList("helo");
 		us.addByLinkedList("A");
 		us.returnByArrayList("moon");
+		us.returnByArrayList("name");
+		us. returnByStack("a");
+		us.returnByQueue("k");
 		
 		
 		ArrayList<String> arrayList = new ArrayList<String>();

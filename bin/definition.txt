@@ -41,8 +41,12 @@ tree is  a data structure with a value assigned to it.
 14) what is the difference between the HashTable and HashMap?
 
 15) What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model.
+RDBMS
+Hierarchical data model
+
 
 16) How HashMap works in java?
+hashMap implements the map interface. it has a key and value.
 
 17)What is Big-(O)-notation?
 
@@ -53,7 +57,13 @@ tree is  a data structure with a value assigned to it.
   b)In terms of removing element.
   c)In terms of searching element.
 
-
+   advantage                                                                 disadvantage
+   list(can contain duplicate values)									           conflict
+   set(do not allow duplication of data)
+   array list(can pick value based on index)
+   linkedlist()                                                               iterate through all element.
+   merge sorting is faster than linear, bubble sort.
+   
 
 
 
